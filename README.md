@@ -1,4 +1,8 @@
 ### Hi there 👋
+It's me the dextrot
+- 🔭 I’m currently working on open source code
+- 🌱 I’m currently learning python and Go/🐍
+- ⚡ Fun fact: I'm new to GitHub 😄
 
 <!--
 **dextrot/dextrot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
