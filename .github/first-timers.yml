@@ -7,7 +7,7 @@ on:
 jobs:
   welcome:
     runs-on: ubuntu-latest
-    if: github.event.pull_request.author_association == 'FIRST_TIME_CONTRIBUTOR'
+#    if: github.event.pull_request.author_association == 'FIRST_TIME_CONTRIBUTOR'
     steps:
       - name: Leave Welcome Comment
         uses: actions/github-script@v6
